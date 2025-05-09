@@ -1,0 +1,14 @@
+2025-05-08 10:44:20,074 - HRMonitorApp - INFO - ==================================================
+2025-05-08 10:44:20,075 - HRMonitorApp - INFO - HR Monitor App Starting
+2025-05-08 10:44:20,075 - HRMonitorApp - INFO - ==================================================
+2025-05-08 10:44:20,075 - HRMonitorApp - INFO - Platform: Darwin 24.4.0 (Darwin Kernel Version 24.4.0: Fri Apr 11 18:32:43 PDT 2025; root:xnu-11417.101.15~117/RELEASE_ARM64_T8103)
+2025-05-08 10:44:20,075 - HRMonitorApp - INFO - Machine: arm64 - Processor: arm
+2025-05-08 10:44:20,075 - HRMonitorApp - INFO - Python: 3.13.2
+2025-05-08 10:44:20,075 - HRMonitorApp - INFO - Kivy: 2.3.1
+2025-05-08 10:44:20,075 - HRMonitorApp - INFO - Bleak: Not available
+2025-05-08 10:44:20,075 - HRMonitorApp - INFO - ==================================================
+2025-05-08 10:44:20,075 - HRMonitorApp - INFO - Starting HeartRateMonitorApp
+2025-05-08 10:44:20,075 - HRMonitorApp - INFO - Asyncio event loop initialized: <_UnixSelectorEventLoop running=False closed=False debug=False>
+2025-05-08 10:44:20,076 - HRMonitorApp - INFO - Initializing BluetoothManager and HRController
+2025-05-08 10:44:20,076 - HRMonitorApp - DEBUG - Setting up bluetooth bindings
+2025-05-08 10:44:20,076 - HRMonitorApp - DEBUG - setting up ANTManager bindings
